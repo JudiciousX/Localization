@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">本地化</string>
+    <string name="ButtonMsg">按钮</string>
+    <string name="TextViewMsg">文本框</string>
+    <string name="msg">这是一个文本框</string>
+</resources>
